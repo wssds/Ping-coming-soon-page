@@ -1,0 +1,7 @@
+:root {
+    --text-center: center;
+}
+
+h1, .pingUnder, h3 {
+    text-align: var(--text-center);
+}
